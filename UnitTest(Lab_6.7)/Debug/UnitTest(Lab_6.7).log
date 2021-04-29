@@ -1,0 +1,18 @@
+﻿  UnitTest(Lab_6.7).cpp
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.h(25,14): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.h(29,14): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.h(33,14): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.h(37,14): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.h(54,14): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.h(57,45): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.h(59,57): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.cpp(9,12): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.cpp(19,12): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.cpp(33,12): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.cpp(46,41): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.cpp(77,50): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.cpp(89,65): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.cpp(98,12): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+C:\Users\dwtwm\source\repos\Lab_6.7\Lab_6.7\Array.cpp(112,35): warning C5040: dynamic exception specifications are valid only in C++14 and earlier; treating as noexcept(false)
+     Creating library C:\Users\dwtwm\source\repos\Lab_6.7\Debug\UnitTest(Lab_6.7).lib and object C:\Users\dwtwm\source\repos\Lab_6.7\Debug\UnitTest(Lab_6.7).exp
+  UnitTest(Lab_6.7).vcxproj -> C:\Users\dwtwm\source\repos\Lab_6.7\Debug\UnitTest(Lab_6.7).dll
